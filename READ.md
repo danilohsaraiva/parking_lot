@@ -1,0 +1,3 @@
+# Manipulando LocalStorage
+## Sobre
+LocalStorage é um local reservado na memória dos browsers que podem ser utilizado para armazenamento de dados do tipo chave e valor. Foi utilizando TypeScript, que possibilita a utilização do JavaScript de forma aumenta seu desempenho, trazendo confiabilidade nas linhas de código ao ponto de identificar possíveis erros, otimizando o processo de codificação. Este é mais um desafio [Dio](https://www.dio.me/).

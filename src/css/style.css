@@ -1,0 +1,151 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    margin:0;
+    padding:0;
+    font-size: 18px;
+    font-weight: 900;
+}
+
+header {
+   background-color: rgb(58, 29, 48);
+    width: 100%;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    /* min-width: 1375.12px;     */
+}
+.container {
+    flex-direction: column;
+    width: 100%;
+    color:black;
+    display: flex;
+    padding: 8px;
+    justify-content: flex-start;
+    margin-left:15px;
+    min-width: 1247px;
+}
+
+.values {
+    width: 300px;
+    border: black 3px solid;
+    background-color: rgb(58, 29, 48);
+    margin: 2em 0 2em 3em;
+    border-radius: 16px;
+    box-shadow: 0 0 0.5 rgb(58, 29, 48);;
+    color: white;
+    text-align: center;
+    padding: 9px;
+}
+.values h2 {
+    font-size: 1.5em;
+}
+
+img {  
+    margin-left:20%;
+}
+h1{
+    color:#DEB887;
+    font-size: 2em;
+}
+
+h2{
+    
+    font-size: 1em;
+    color:#DEB887
+}
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgba(85, 64, 78, 0.308);
+}
+
+
+.valores {  
+    border: solid black 5px;
+}
+
+.cabecalho {
+    margin: 0;
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+input {
+    color: black ;
+    height: 2em;
+    width: 20%;
+    margin: 1em;
+    text-align: center;
+    background-color: white;
+    border-radius: 15px;
+    min-width: 400px;
+}
+
+#cadastrar {
+    margin-left: 2em;
+    padding: 0.5em;
+    background-color:#52354bb4;
+    color: #fff;
+    border-radius: 15px;
+}
+
+.conteudo {
+    text-align:start;
+    margin: 0 5em;
+    padding: 0;
+}
+
+th {
+    color:#000000;
+    font-size: 1.5em;
+    padding: 20px;
+    min-width: 10em;
+} 
+th:last-child{
+    min-width: 69px;
+}
+
+#patio td:last-child{
+    width:10%;
+}
+
+.delete {
+    background-color:#52354bb4;
+    color: #fff;
+    display:flex;
+    justify-content: center;
+    margin:auto;
+    padding: 5px;
+    border-radius: 15px;
+    height: auto;
+}
+
+ .style1 {
+    background-color: #f5f4f8c4;
+    min-width:20em;
+    padding: 8px;
+    /* color:#F0FFF0 */
+ }
+
+ .style2 {
+    background-color: #f5f4f8a4	;
+    min-width:20em;
+    padding: 8px;
+ }
+
+ .style3 {
+    background-color:	#f5f4f871;
+    min-width: 20em;
+    padding: 8px;
+ }
+ .style4 {
+    width: 10%;
+ }
